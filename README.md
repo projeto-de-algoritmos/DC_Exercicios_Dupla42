@@ -27,7 +27,7 @@ Dificuldade: Médio
 
 ### Exercicio 2 - Merge k Sorted Lists
 
-Link: [Search a 2D Matrix II](https://leetcode.com/problems/merge-k-sorted-lists/) <br>
+Link: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) <br>
 Dificuldade: Difícil
 
 ![ScreenShot2](./img/img2.png)
