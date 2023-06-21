@@ -36,10 +36,14 @@ def convert_to_linked_lists(lists):
         linked_lists.append(dummy.next)
     return linked_lists
 
-
-
-
 lists = [[1,4,5],[1,3,4],[2,6]]
 linked_lists = convert_to_linked_lists(lists)
 result = Solution().mergeKLists(linked_lists)
-print_linked_list(result)
+
+output_list = []
+current = result
+while current is not None:
+    output_list.append(current.val)
+    current = current.next
+
+print(output_list)

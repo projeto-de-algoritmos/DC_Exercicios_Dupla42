@@ -1,4 +1,4 @@
-# NomedoProjeto
+# DC_Exercicios_Dupla42
 
 **Número da Lista**: 42<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
@@ -10,7 +10,7 @@
 
 ## Video da Apresentação
 
-[Link do Vídeo]()
+[Link do Vídeo](https://www.youtube.com/watch?v=jUkwdCrf284)
 
 
 ## Sobre 
