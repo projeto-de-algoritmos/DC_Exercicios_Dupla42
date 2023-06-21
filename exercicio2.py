@@ -37,12 +37,6 @@ def convert_to_linked_lists(lists):
     return linked_lists
 
 
-def print_linked_list(node):
-    values = []
-    while node is not None:
-        values.append(str(node.val))
-        node = node.next
-    print(" -> ".join(values))
 
 
 lists = [[1,4,5],[1,3,4],[2,6]]
