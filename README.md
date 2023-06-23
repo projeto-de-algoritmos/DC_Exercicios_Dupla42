@@ -8,10 +8,6 @@
 | -- | -- |
 | 19/0118555  |  Wengel Rodrigues Farias |
 
-## Video da Apresentação
-
-[Link do Vídeo](apresentacao.mp4)
-
 
 ## Sobre 
 Este projeto foi feito com a resolução de 3 exercícios abordando o tema de Dividir e Conquistar. Os exercícios foram retirados do site: [LeetCode](https://leetcode.com/).
@@ -23,21 +19,21 @@ Este projeto foi feito com a resolução de 3 exercícios abordando o tema de Di
 Link: [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) <br>
 Dificuldade: Médio
 
-![ScreenShot1](./img/img1.png)
+![ScreenShot1](./assets/img1.png)
 
 ### Exercicio 2 - Merge k Sorted Lists
 
 Link: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) <br>
 Dificuldade: Difícil
 
-![ScreenShot2](./img/img2.png)
+![ScreenShot2](./assets/img2.png)
 
 ### Exercicio 3 - Median of Two Sorted Arrays
 
 Link: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) <br>
 Dificuldade: Difícil
 
-![ScreenShot3](./img/img3.png)
+![ScreenShot3](./assets/img3.png)
 
 
 ## Instalação 
@@ -63,3 +59,6 @@ Para verificar o funcionamento basta abrir o link do exercicio e copiar o códig
 `python NomeDoArquivo.py`.
 
 
+## Video da Apresentação
+
+[Link do Vídeo](apresentacao.mp4)
